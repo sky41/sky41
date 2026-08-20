@@ -87,14 +87,7 @@ AIDevOps 工程师，热爱用 AI 重新定义运维。目前在做 **AI 智能�
 
 </div>
 
-## 📊 Stats
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skywide&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywide&layout=compact&theme=tokyonight)
-
-</div>
 
 ## ✨ About Me
 
@@ -128,8 +121,4 @@ AIDevOps 工程师，热爱用 AI 重新定义运维。目前在做 **AI 智能�
 - **GitHub**：[@skywide](https://github.com/skywide)
 - **邮箱**：sky1417167991@163.com
 
-## 📖 My Story
 
-> **"用代码解决重复劳动，用 AI 重新定义运维。"**
->
-> 从山东科技职业学院到亚信科技实习，从 Linux 课程 98 分到独立开发企业级 AI 运维平台，每一步都是对技术的热爱与坚持。在亚信维护中国移动计费系统期间，我设计了日志抖动处理算法，把无效告警降低了 70%+，告警响应时间从 30 分钟缩短到 5 分钟——这让我更加坚定：**运维的未来，是 AI 驱动的智能化运维。**
